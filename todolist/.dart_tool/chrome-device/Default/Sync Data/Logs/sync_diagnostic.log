@@ -1,0 +1,7 @@
+2024-09-14T18:28:14.758Z P:2624 T:12836] SyncServiceImpl::Initialize,SyncState after authenticated was: NotSignedIn
+2024-09-14T18:28:30.604Z P:2624 T:12836] SyncServiceImpl::TryStartImpl,Try to start sync engine
+2024-09-14T18:28:30.604Z P:2624 T:4768] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-09-14T18:28:36.884Z P:2624 T:12836] SyncAuthManager::SetLastAuthError,Current auth error: None
+2024-09-14T18:28:36.884Z P:2624 T:12836] SyncAuthManager::EdgeLogTokenErrorState,Token error with: None for account type: MSA
+2024-09-14T18:28:36.884Z P:2624 T:12836] SyncServiceImpl::CredentialsChanged,Credentials changed for: EdgeSyncScopeNew
+2024-09-14T18:28:47.032Z P:2624 T:12836] SyncServiceImpl::ResetEngine,Reset engine with reason: 0

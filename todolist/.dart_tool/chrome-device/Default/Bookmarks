@@ -1,0 +1,93 @@
+{
+   "checksum": "a7f21e5d728ef8510b2002a881255935",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13370812094985222",
+            "date_last_used": "0",
+            "guid": "e0b201ca-bbef-4113-bbb8-af1c93a1f200",
+            "id": "6",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13311239211281370",
+               "date_last_used": "0",
+               "guid": "31f4c92f-b5ff-41ac-9955-0ada60ebfb02",
+               "id": "8",
+               "name": "Dell Auction",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dellauction.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13311239211292537",
+               "date_last_used": "0",
+               "guid": "1a463bf5-7502-4e95-9dd8-ab3c9b805a53",
+               "id": "9",
+               "name": "Dell",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www1.ap.dell.com/content/default.aspx?c=in&l=en&s=gen",
+               "visit_count": 0
+            }, {
+               "date_added": "13311239211296042",
+               "date_last_used": "0",
+               "guid": "42c13c5d-afad-4c95-bbae-cb141b210be2",
+               "id": "10",
+               "name": "Support.Dell.Com",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dell.com/support/home",
+               "visit_count": 0
+            } ],
+            "date_added": "13370812098806034",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "4c3d466d-c3b9-476b-9617-69b03417f9f8",
+            "id": "7",
+            "name": "Dell",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13370812094730986",
+         "date_last_used": "0",
+         "date_modified": "13370812094985222",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13370812094730988",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13370812094730989",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
