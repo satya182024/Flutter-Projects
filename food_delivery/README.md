@@ -33,6 +33,10 @@ This Flutter project is designed to provide a seamless food delivery experience 
 
 food_delivery/ ├── android/ ├── assets/ ├── ios/ ├── lib/ │ ├── models/ │ │ ├── category_model.dart │ │ └── my_product_model.dart │ ├── Provider/ │ │ └── cart_provider.dart │ ├── view/ │ │ ├── home_page.dart │ │ └── cart.dart │ └── Widgets/ │ └── food_product_items.dart ├── test/ └── web/
 
+## Dribbble Design
+[View the Dribbble Design Inspiration](https://dribbble.com/shots/18302635-Food-Delivery-App-Foodel)
+
+
 ## Screenshot of the Food Delivery App
 
 ![App Onboarding](assets/screenshots/1.png)
